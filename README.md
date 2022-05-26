@@ -4,6 +4,6 @@ This project is practice for the course https://frontendmasters.com/courses/comp
 
 run npm install
 
-run npm start dev
+run npm run dev
 
 and... you're good to go!
